@@ -1,0 +1,1260 @@
+﻿Log file open, 08/26/22 16:20:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MM_PetStop
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189464
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:10001'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Engine.ini]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Engine.ini]
+[2022.08.26-08.20.42:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Engine.ini]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Engine.ini]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.08.26-08.20.42:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Engine.ini]
+[2022.08.26-08.20.42:149][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Engine.ini]
+[2022.08.26-08.20.42:156][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:156][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.26-08.20.42:156][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.26-08.20.42:156][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:156][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.26-08.20.42:156][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.26-08.20.42:157][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.26-08.20.42:157][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.26-08.20.42:157][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.08.26-08.20.42:157][  0]LogHAL: Display: Platform has ~ 16 GB [17117503488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.26-08.20.42:157][  0]LogInit: Going up to parent DeviceProfile []
+[2022.08.26-08.20.42:157][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Scalability.ini]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.26-08.20.42:158][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.26-08.20.42:159][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.08.26-08.20.42:159][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.08.26-08.20.42:159][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.08.26-08.20.42:159][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Engine.ini]
+[2022.08.26-08.20.42:159][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Config/Windows/Editor.ini]
+[2022.08.26-08.20.42:159][  0]LogInit: Computer: USER-20220706WA
+[2022.08.26-08.20.42:159][  0]LogInit: User: Administrator
+[2022.08.26-08.20.42:159][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.08.26-08.20.42:159][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.26-08.20.42:159][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.26-08.20.42:159][  0]LogMemory: Platform Memory Stats for Windows
+[2022.08.26-08.20.42:159][  0]LogMemory: Process Physical Memory: 144.03 MB used, 144.03 MB peak
+[2022.08.26-08.20.42:159][  0]LogMemory: Process Virtual Memory: 126.34 MB used, 126.34 MB peak
+[2022.08.26-08.20.42:159][  0]LogMemory: Physical Memory: 5236.25 MB used,  11088.27 MB free, 16324.52 MB total
+[2022.08.26-08.20.42:159][  0]LogMemory: Virtual Memory: 134201680.00 MB used,  16049.96 MB free, 134217728.00 MB total
+[2022.08.26-08.20.42:163][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.26-08.20.42:196][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.08.26-08.20.42:196][  0]LogInit: Using OS detected language (zh-CN).
+[2022.08.26-08.20.42:196][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.08.26-08.20.42:197][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.08.26-08.20.42:278][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.08.26-08.20.42:321][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.26-08.20.42:329][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.08.26-08.20.42:339][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.26-08.20.42:339][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.26-08.20.42:423][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.08.26-08.20.42:425][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.26-08.20.42:425][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.08.26-08.20.42:425][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.08.26-08.20.42:425][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.26-08.20.42:519][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2022.08.26-08.20.42:519][  0]LogD3D11RHI:       8079/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     SubSysId    : 119e1b4c
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     SharedSystemMemory : 8558751744 bytes
+[2022.08.26-08.20.42:521][  0]LogD3D11RHI:     AdapterLuid : 0 55416
+[2022.08.26-08.20.42:524][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.26-08.20.42:524][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.26-08.20.42:524][  0]LogWindows: EnumDisplayDevices:
+[2022.08.26-08.20.42:524][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2022.08.26-08.20.42:524][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.08.26-08.20.42:524][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.08.26-08.20.42:525][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.08.26-08.20.42:525][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:      Driver Date: 6-23-2022
+[2022.08.26-08.20.42:525][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     SubSysId    : 119e1b4c
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     SharedSystemMemory : 8558751744 bytes
+[2022.08.26-08.20.42:525][  0]LogD3D11RHI:     AdapterLuid : 0 55416
+[2022.08.26-08.20.42:569][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.08.26-08.20.42:569][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.26-08.20.42:569][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.08.26-08.20.42:584][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.08.26-08.20.42:615][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.08.26-08.20.42:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.26-08.20.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.26-08.20.42:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.26-08.20.42:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.26-08.20.42:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.26-08.20.42:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.08.26-08.20.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.26-08.20.42:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.26-08.20.42:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.08.26-08.20.42:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.08.26-08.20.42:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.08.26-08.20.42:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.08.26-08.20.42:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.08.26-08.20.42:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.08.26-08.20.42:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.08.26-08.20.42:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.08.26-08.20.42:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.08.26-08.20.42:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.26-08.20.42:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.26-08.20.42:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.08.26-08.20.42:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.26-08.20.42:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.26-08.20.42:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.26-08.20.42:966][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.08.26-08.20.42:971][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.26-08.20.42:992][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.08.26-08.20.43:014][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.26-08.20.43:014][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Intermediate/Shaders/WorkingDirectory/1352/).
+[2022.08.26-08.20.43:014][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/F4B752E448AECFA4FA167CA28C6CC4CF/'.
+[2022.08.26-08.20.43:014][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.26-08.20.43:015][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.08.26-08.20.43:015][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.08.26-08.20.43:611][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.08.26-08.20.43:658][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.08.26-08.20.43:658][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.08.26-08.20.43:658][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.26-08.20.43:658][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.08.26-08.20.43:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.26-08.20.43:659][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.08.26-08.20.43:673][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.08.26-08.20.43:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.26-08.20.43:673][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.08.26-08.20.43:679][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.08.26-08.20.43:679][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2042.37MBs, RandomWriteSpeed=167.31MBs. Assigned SpeedClass 'Local'
+[2022.08.26-08.20.43:680][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.26-08.20.43:680][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.26-08.20.43:680][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.08.26-08.20.43:718][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.26-08.20.43:718][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.26-08.20.43:738][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2022.08.26-08.20.43:937][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.26-08.20.43:937][  0]LogInit: Active device profile: [000001AF8D2ACB00][000001AF8E95CAC0 49] Windows
+[2022.08.26-08.20.43:937][  0]LogInit: Profiles: [000001AF8D2ACB00][000001AF8E95CAC0 49] Windows, [000001AF8D27A100][000001AF8E960C40 49] WindowsNoEditor, [000001AF8D2AD900][000001AF8E964DC0 49] WindowsServer, [000001AF8D27AE00][000001AF8E968F40 49] WindowsClient, [000001AF8D2AFC00][000001AF8E96D0C0 49] IOS, [000001AF8D278F00][000001AF8E971240 49] iPadAir, [000001AF8D2AFE00][000001AF8E9793C0 49] iPadAir2, [000001AF8D030C00][000001AF8E987680 49] IPadPro, [000001AF8D030D00][000001AF8E97D6C0 49] iPadAir3, [000001AF8D27BB00][000001AF8E991840 49] iPadAir4, [000001AF8D033600][000001AF8E9D79C0 49] iPadMini2, [000001AF8D27B200][000001AF8E9DBB40 49] iPadMini3, [000001AF8D033800][000001AF8E9DE140 49] iPadMini4, [000001AF8D27B800][000001AF8E9E22C0 49] iPadMini5, [000001AF8D074600][000001AF8E9EA580 49] iPhone6, [000001AF8D074700][000001AF8E9E65C0 49] iPodTouch6, [000001AF8D2AE900][000001AF8E958840 49] iPhone7, [000001AF8D2AE800][000001AF8EA2A880 49] iPodTouch7, [000001AF8D074100][000001AF8E2D49C0 49] iPhone5S, [000001AF8D030700][000001AF8B828B00 49] iPhone6Plus, [000001AF8D076500][000001AF8B946C80 49] iPhone6S, [000001AF8D031300][000001AF8B94AE00 49] iPhone6SPlus, [000001AF8D077B00][000001AF8B94EF80 49] iPhone7Plus, [000001AF8D033500][000001AF8B953100 49] iPhoneSE, [000001AF8D2AE600][000001AF8B957280 49] iPhone8, [000001AF8D030600][000001AF8B95B400 49] iPhone8Plus, [000001AF8D2AE200][000001AF8B95F580 49] iPhoneX, [000001AF8D033300][000001AF8B963700 49] iPhoneXS, [000001AF8D2AF400][000001AF8B967880 49] iPhoneXSMax, [000001AF8D032D00][000001AF8DA6FA00 49] iPhoneXR, [000001AF8D2AC200][000001AF8DA73B80 49] iPhone11, [000001AF8D031E00][000001AF8DA76180 49] iPhone11Pro, [000001AF8D2AEA00][000001AF8DA7A300 49] iPhone11ProMax, [000001AF8D033700][000001AF8DA7E480 49] iPhoneSE2, [000001AF8D2ACD00][000001AF8DA82600 49] iPhone12Mini, [000001AF8D031F00][000001AF8DA86780 49] iPhone12, [000001AF8D2AC700][000001AF8DA8A900 49] iPhone12Pro, [000001AF8D031400][000001AF8B942A40 49] iPhone12ProMax, [000001AF8D2ACC00][000001AF8DA8EB80 49] iPadPro105, [000001AF8D031700][000001AF8DA92CC0 49] iPadPro129, [000001AF8D2AC100][000001AF8DA9AE40 49] iPadPro97, [000001AF8D033C00][000001AF8DA9EFC0 49] iPadPro2_129, [000001AF8D2AC800][000001AF8DAA3140 49] iPad5, [000001AF8D033100][000001AF8DAA72C0 49] iPad6, [000001AF8D2AC500][000001AF8DAAB440 49] iPad7, [000001AF8D032800][000001AF8DAAF5C0 49] iPad8, [000001AF8D2AD500][000001AF8DAB3740 49] iPadPro11, [000001AF8D031500][000001AF8DAB78C0 49] iPadPro2_11, [000001AF8D2ACF00][000001AF8DABBA40 49] iPadPro3_129, [000001AF8D032C00][000001AF8DABFBC0 49] iPadPro4_129, [000001AF8D2AE500][000001AF8DAC21C0 49] AppleTV, [000001AF8D031100][000001AF8DAC6340 49] AppleTV4K, [000001AF8D2AC400][000001AF8DACA4C0 49] TVOS, [000001AF8D032600][000001AF8DACE640 49] Mac, [000001AF8D2AFD00][000001AF8DD0E7C0 49] MacClient, [000001AF8D031800][000001AF8DD12940 49] MacNoEditor, [000001AF8D2AF100][000001AF8DD16AC0 49] MacServer, [000001AF8D033900][000001AF8DA96C00 49] Linux, [000001AF8D2AC900][000001AF8DD1AD40 49] LinuxAArch64, [000001AF8D033F00][000001AF8DD1EE80 49] LinuxNoEditor, [000001AF8D2ADB00][000001AF8DD22FC0 49] LinuxAArch64NoEditor, [000001AF8D033400][000001AF8DD2B140 49] LinuxClient, [000001AF8D2ADC00][000001AF8DD2F2C0 49] LinuxAArch64Client, [000001AF8D031D00][000001AF8DD33440 49] LinuxServer, [000001AF8D2AEF00][000001AF8DD375C0 49] LinuxAArch64Server, [000001AF8D030500][000001AF8DD3B740 49] Android, [000001AF8D2ADE00][000001AF8DD3F8C0 49] Android_Low, [000001AF8D033000][000001AF8DD43A40 49] Android_Mid, [000001AF8D2AE400][000001AF8DD47BC0 49] Android_High, [000001AF8D030800][000001AF8DD4A1C0 49] Android_Default, [000001AF8D2AF200][000001AF8DD4E340 49] Android_Adreno4xx, [000001AF8D27A400][000001AF8DD524C0 49] Android_Adreno5xx_Low, [000001AF8D075C00][000001AF8DD56640 49] Android_Adreno5xx, [000001AF8D27BD00][000001AF8DD5A7C0 49] Android_Adreno6xx, [000001AF8D076B00][000001AF8DD5E940 49] Android_Adreno6xx_Vulkan, [000001AF8D27BE00][000001AF8DD62AC0 49] Android_Mali_T6xx, [000001AF8D074F00][000001AF8DD66C40 49] Android_Mali_T7xx, [000001AF8D279300][000001AF8DD26D80 49] Android_Mali_T8xx, [000001AF8D075F00][000001AF8DD6AEC0 49] Android_Mali_G71, [000001AF8D279C00][000001AF8DD6F000 49] Android_Mali_G72, [000001AF8D076400][000001AF8DD73140 49] Android_Mali_G72_Vulkan, [000001AF8D27B600][000001AF8DD7B2C0 49] Android_Mali_G76, [000001AF8D076100][000001AF8DD7F440 49] Android_Mali_G76_Vulkan, [000001AF8D279B00][000001AF8DD835C0 49] Android_Mali_G77, [000001AF8D074A00][000001AF8DD87740 49] Android_Mali_G77_Vulkan, [000001AF8D27B400][000001AF8E45D8C0 49] Android_Mali_G78, [000001AF8D075300][000001AF8E461A40 49] Android_Mali_G78_Vulkan, [000001AF8D27A900][000001AF8E465BC0 49] Android_Mali_G710, [000001AF8D077D00][000001AF8E4681C0 49] Android_Mali_G710_Vulkan, [000001AF8D279E00][000001AF8E46C340 49] Android_Vulkan_SM5, [000001AF8D074900][000001AF8E4704C0 49] Android_PowerVR_G6xxx, [000001AF8D279F00][000001AF8E474640 49] Android_PowerVR_GT7xxx, [000001AF8D076700][000001AF8E4787C0 49] Android_PowerVR_GE8xxx, [000001AF8D27A300][000001AF8E47C940 49] Android_PowerVR_GM9xxx, [000001AF8D077200][000001AF8E480AC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001AF8D27B000][000001AF8E484C40 49] Android_TegraK1, [000001AF8D075700][000001AF8E488DC0 49] Android_Unknown_Vulkan, [000001AF8D27B700][000001AF8E48CF40 49] Lumin, [000001AF8D074200][000001AF8DD77080 49] Lumin_Desktop, [000001AF8D27A200][000001AF8E4911C0 49] HoloLens, 
+[2022.08.26-08.20.44:035][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.26-08.20.44:035][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.26-08.20.44:035][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.26-08.20.44:035][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.26-08.20.44:035][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.26-08.20.44:045][  0]LogNetVersion: MM_PetStop 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1902159491)
+[2022.08.26-08.20.44:352][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.08.26-08.20.44:396][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.08.26-08.20.44:400][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.08.26-08.20.44:400][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.08.26-08.20.44:400][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.26-08.20.44:598][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0BD8C59A44F134E5CD8028BC55D2846F | Instance: 380C78C74E20498DE0251BB6CF10BFDA (USER-20220706WA-1352).
+[2022.08.26-08.20.44:684][  0]LogPython: Using Python 3.7.7
+[2022.08.26-08.20.45:122][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.26-08.20.45:135][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.26-08.20.45:238][  0]SourceControl: 源码管理已禁用
+[2022.08.26-08.20.45:238][  0]SourceControl: 源码管理已禁用
+[2022.08.26-08.20.45:240][  0]SourceControl: 源码管理已禁用
+[2022.08.26-08.20.45:242][  0]SourceControl: 源码管理已禁用
+[2022.08.26-08.20.45:247][  0]SourceControl: 源码管理已禁用
+[2022.08.26-08.20.45:312][  0]LogUProjectInfo: Found projects:
+[2022.08.26-08.20.45:419][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.26-08.20.45:440][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.26-08.20.45:458][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.26-08.20.45:458][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.26-08.20.45:548][  0]LogCollectionManager: Loaded 0 collections in 0.001055 seconds
+[2022.08.26-08.20.45:612][  0]LogFileCache: Scanning file cache for directory 'F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Collections/' took 0.00s
+[2022.08.26-08.20.45:612][  0]LogFileCache: Scanning file cache for directory 'F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/Developers/Administrator/Collections/' took 0.00s
+[2022.08.26-08.20.45:612][  0]LogFileCache: Scanning file cache for directory 'F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/Collections/' took 0.00s
+[2022.08.26-08.20.45:612][  0]LogOcInput: OculusInput pre-init called
+[2022.08.26-08.20.45:822][  0]LogEngine: Initializing Engine...
+[2022.08.26-08.20.45:824][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.08.26-08.20.45:824][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.26-08.20.45:824][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.08.26-08.20.45:825][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.26-08.20.45:921][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.26-08.20.45:927][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.26-08.20.45:935][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.26-08.20.45:937][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.26-08.20.45:937][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.26-08.20.45:938][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.26-08.20.45:938][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.26-08.20.45:938][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.26-08.20.45:938][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.26-08.20.45:938][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.26-08.20.45:938][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.26-08.20.45:938][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.26-08.20.45:938][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.26-08.20.45:938][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.26-08.20.45:938][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.26-08.20.45:938][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.26-08.20.45:938][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.26-08.20.45:938][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.26-08.20.45:938][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.26-08.20.45:948][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.26-08.20.45:948][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.08.26-08.20.45:975][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2022.08.26-08.20.45:976][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.26-08.20.45:977][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.26-08.20.45:977][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.26-08.20.45:978][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.26-08.20.45:978][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.26-08.20.45:978][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.26-08.20.45:978][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.26-08.20.45:978][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.26-08.20.45:978][  0]LogInit: FAudioDevice initialized.
+[2022.08.26-08.20.45:979][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.26-08.20.45:979][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.26-08.20.46:043][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.08.26-08.20.46:043][  0]LogInit: Texture streaming: Enabled
+[2022.08.26-08.20.46:052][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.08.26-08.20.46:055][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.26-08.20.46:055][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.08.26-08.20.46:057][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.08.26-08.20.46:066][  0]LogInit: Transaction tracking system initialized
+[2022.08.26-08.20.46:081][  0]BlueprintLog: New page: 编辑器加载
+[2022.08.26-08.20.46:132][  0]LocalizationService: 本地化服务已禁用
+[2022.08.26-08.20.46:147][  0]TimingProfiler: Initialize
+[2022.08.26-08.20.46:147][  0]TimingProfiler: OnSessionChanged
+[2022.08.26-08.20.46:147][  0]LoadingProfiler: Initialize
+[2022.08.26-08.20.46:147][  0]LoadingProfiler: OnSessionChanged
+[2022.08.26-08.20.46:147][  0]NetworkingProfiler: Initialize
+[2022.08.26-08.20.46:147][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.26-08.20.46:147][  0]MemoryProfiler: Initialize
+[2022.08.26-08.20.46:147][  0]MemoryProfiler: OnSessionChanged
+[2022.08.26-08.20.46:256][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.08.26-08.20.46:256][  0]LogCook: Display: Mobile HDR setting 1
+[2022.08.26-08.20.46:392][  0]LogFileCache: Scanning file cache for directory 'F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/' took 0.00s
+[2022.08.26-08.20.46:559][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.26-08.20.46:562][  0]SourceControl: 源码管理已禁用
+[2022.08.26-08.20.46:562][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.129
+[2022.08.26-08.20.46:563][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.08.26-08.20.46:563][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.26-08.20.46:563][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.46:563][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.26-08.20.46:565][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.08.26-08.20.46:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.08.26-08.20.46:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.08.26-08.20.46:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.08.26-08.20.46:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.08.26-08.20.46:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.08.26-08.20.46:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.08.26-08.20.46:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.08.26-08.20.46:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.08.26-08.20.46:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.08.26-08.20.46:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.08.26-08.20.46:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.08.26-08.20.46:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.08.26-08.20.46:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.08.26-08.20.46:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.08.26-08.20.46:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.08.26-08.20.46:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.08.26-08.20.46:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.08.26-08.20.46:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Fire01.uasset"
+[2022.08.26-08.20.46:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.08.26-08.20.46:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.08.26-08.20.46:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.08.26-08.20.46:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Light01.uasset"
+[2022.08.26-08.20.46:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.08.26-08.20.46:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Light02.uasset"
+[2022.08.26-08.20.46:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.08.26-08.20.46:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.08.26-08.20.46:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.08.26-08.20.46:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.08.26-08.20.46:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.08.26-08.20.46:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.08.26-08.20.46:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.08.26-08.20.46:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.08.26-08.20.46:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.08.26-08.20.46:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Steam01.uasset"
+[2022.08.26-08.20.46:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.08.26-08.20.46:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.08.26-08.20.46:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.08.26-08.20.46:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.08.26-08.20.46:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.08.26-08.20.46:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.08.26-08.20.46:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.08.26-08.20.46:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.08.26-08.20.46:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.08.26-08.20.46:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.08.26-08.20.46:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.08.26-08.20.46:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.08.26-08.20.46:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.08.26-08.20.46:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.08.26-08.20.46:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.08.26-08.20.46:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.08.26-08.20.46:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.08.26-08.20.46:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.08.26-08.20.46:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.08.26-08.20.46:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.08.26-08.20.46:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.08.26-08.20.46:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.08.26-08.20.46:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Maps/StarterMap.umap"
+[2022.08.26-08.20.46:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.08.26-08.20.46:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.08.26-08.20.46:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.08.26-08.20.46:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.08.26-08.20.46:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.08.26-08.20.46:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.08.26-08.20.46:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.08.26-08.20.46:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.08.26-08.20.46:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.08.26-08.20.46:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.08.26-08.20.46:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.08.26-08.20.46:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.08.26-08.20.46:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.08.26-08.20.46:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.08.26-08.20.46:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.08.26-08.20.46:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.08.26-08.20.46:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.08.26-08.20.46:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.08.26-08.20.46:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.08.26-08.20.46:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.08.26-08.20.46:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.08.26-08.20.46:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.08.26-08.20.46:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.08.26-08.20.46:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.08.26-08.20.46:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.08.26-08.20.46:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.08.26-08.20.46:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.08.26-08.20.46:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.08.26-08.20.46:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.08.26-08.20.46:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.08.26-08.20.46:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.08.26-08.20.46:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.08.26-08.20.46:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.08.26-08.20.46:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.08.26-08.20.46:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.08.26-08.20.46:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.08.26-08.20.46:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.08.26-08.20.46:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.08.26-08.20.46:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.08.26-08.20.46:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.08.26-08.20.46:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.08.26-08.20.46:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.08.26-08.20.46:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.08.26-08.20.46:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.08.26-08.20.46:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.08.26-08.20.46:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.08.26-08.20.46:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.08.26-08.20.46:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.08.26-08.20.46:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.08.26-08.20.46:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.08.26-08.20.46:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.08.26-08.20.46:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.08.26-08.20.46:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.08.26-08.20.46:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.08.26-08.20.46:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.08.26-08.20.46:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.08.26-08.20.46:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.08.26-08.20.46:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.08.26-08.20.46:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.08.26-08.20.46:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.08.26-08.20.46:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.08.26-08.20.46:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.08.26-08.20.46:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.08.26-08.20.46:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.08.26-08.20.46:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.08.26-08.20.46:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Door.uasset"
+[2022.08.26-08.20.46:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.08.26-08.20.46:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.08.26-08.20.46:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.08.26-08.20.46:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.08.26-08.20.46:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.08.26-08.20.46:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.08.26-08.20.46:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.08.26-08.20.46:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.08.26-08.20.46:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.08.26-08.20.46:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.08.26-08.20.46:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.08.26-08.20.46:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.08.26-08.20.46:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.08.26-08.20.46:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.08.26-08.20.46:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.08.26-08.20.46:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.08.26-08.20.46:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.08.26-08.20.46:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.08.26-08.20.46:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.08.26-08.20.46:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.08.26-08.20.46:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.08.26-08.20.46:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.08.26-08.20.46:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.08.26-08.20.46:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.08.26-08.20.46:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.08.26-08.20.46:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.08.26-08.20.46:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.08.26-08.20.46:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.08.26-08.20.46:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.08.26-08.20.46:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.08.26-08.20.46:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.08.26-08.20.46:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.08.26-08.20.46:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.08.26-08.20.46:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.08.26-08.20.46:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.08.26-08.20.46:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.08.26-08.20.46:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.08.26-08.20.46:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.08.26-08.20.46:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.08.26-08.20.46:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.08.26-08.20.46:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.08.26-08.20.46:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.08.26-08.20.46:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.08.26-08.20.46:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.08.26-08.20.46:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.08.26-08.20.46:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.08.26-08.20.46:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.08.26-08.20.46:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.08.26-08.20.46:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.08.26-08.20.46:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.08.26-08.20.46:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.08.26-08.20.46:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.08.26-08.20.46:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.08.26-08.20.46:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.08.26-08.20.46:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.08.26-08.20.46:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.08.26-08.20.46:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.08.26-08.20.46:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.08.26-08.20.46:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.08.26-08.20.46:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.08.26-08.20.46:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.08.26-08.20.46:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.08.26-08.20.46:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.08.26-08.20.46:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.08.26-08.20.46:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.08.26-08.20.46:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.08.26-08.20.46:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.08.26-08.20.46:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.08.26-08.20.46:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.08.26-08.20.46:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.08.26-08.20.46:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.08.26-08.20.46:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.08.26-08.20.47:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.08.26-08.20.47:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.08.26-08.20.47:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.08.26-08.20.47:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.08.26-08.20.47:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.08.26-08.20.47:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.08.26-08.20.47:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.08.26-08.20.47:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.08.26-08.20.47:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.08.26-08.20.47:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.08.26-08.20.47:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.08.26-08.20.47:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.08.26-08.20.47:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.08.26-08.20.47:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.08.26-08.20.47:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.08.26-08.20.47:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.08.26-08.20.47:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.08.26-08.20.47:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.08.26-08.20.47:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.08.26-08.20.47:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.08.26-08.20.47:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.08.26-08.20.47:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.08.26-08.20.47:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.08.26-08.20.47:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.08.26-08.20.47:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.08.26-08.20.47:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.08.26-08.20.47:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.08.26-08.20.47:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.08.26-08.20.47:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.08.26-08.20.47:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.08.26-08.20.47:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.08.26-08.20.47:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.08.26-08.20.47:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.08.26-08.20.47:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.08.26-08.20.47:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.08.26-08.20.47:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.08.26-08.20.47:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.08.26-08.20.47:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.08.26-08.20.47:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.08.26-08.20.47:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.08.26-08.20.47:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.08.26-08.20.47:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.08.26-08.20.47:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.08.26-08.20.47:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.08.26-08.20.47:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.08.26-08.20.47:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.08.26-08.20.47:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.08.26-08.20.47:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.08.26-08.20.47:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.08.26-08.20.47:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.08.26-08.20.47:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.08.26-08.20.47:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.08.26-08.20.47:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.08.26-08.20.47:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.08.26-08.20.47:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.08.26-08.20.47:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.08.26-08.20.47:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.08.26-08.20.47:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.08.26-08.20.47:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.08.26-08.20.47:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.08.26-08.20.47:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.08.26-08.20.47:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.08.26-08.20.47:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.08.26-08.20.47:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.08.26-08.20.47:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.08.26-08.20.47:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.08.26-08.20.47:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.08.26-08.20.47:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.08.26-08.20.47:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.08.26-08.20.47:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.08.26-08.20.47:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.08.26-08.20.47:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.08.26-08.20.47:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.08.26-08.20.47:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.08.26-08.20.47:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.08.26-08.20.47:433][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.08.26-08.20.47:456][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2022.08.26-08.20.47:483][  0]LogSavePackage: Moving 'F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Saved/Floor_400x400692A6E6148BB7085CE19929C7CD0105A.tmp' to 'F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.08.26-08.20.47:484][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.08.26-08.20.47:485][  0]Cmd: MAP LOAD FILE="F:/2022年项目工程/MM_PetStop/MM_PetStop/MM_PetStop/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.26-08.20.47:485][  0]LightingResults: New page: 光照构建
+[2022.08.26-08.20.47:486][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.26-08.20.47:486][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.26-08.20.47:486][  0]MapCheck: New page: 地图检测
+[2022.08.26-08.20.47:486][  0]LightingResults: New page: 光照构建
+[2022.08.26-08.20.47:490][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.26-08.20.47:492][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.08.26-08.20.47:682][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.08.26-08.20.47:683][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.08.26-08.20.47:688][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.26-08.20.47:694][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.08.26-08.20.47:695][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.26-08.20.47:695][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.101毫秒。
+[2022.08.26-08.20.47:695][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.210
+[2022.08.26-08.20.47:697][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.264
+[2022.08.26-08.20.47:783][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.08.26-08.20.47:829][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-08.20.47:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-08.20.47:838][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-08.20.47:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-08.20.47:858][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3822 classes and 928 folders.
+[2022.08.26-08.20.47:860][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.08.26-08.20.47:860][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.26-08.20.47:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.26-08.20.47:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.08.26-08.20.47:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.08.26-08.20.47:861][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.08.26-08.20.47:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.08.26-08.20.47:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.08.26-08.20.47:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.08.26-08.20.47:861][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.08.26-08.20.47:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.08.26-08.20.47:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.08.26-08.20.47:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.26-08.20.47:862][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:862][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.08.26-08.20.47:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.08.26-08.20.47:862][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:862][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.08.26-08.20.47:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.26-08.20.47:862][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:862][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.08.26-08.20.47:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.08.26-08.20.47:863][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:863][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.08.26-08.20.47:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.08.26-08.20.47:863][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:863][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.08.26-08.20.47:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.26-08.20.47:863][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:863][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.08.26-08.20.47:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:864][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.08.26-08.20.47:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.08.26-08.20.47:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.08.26-08.20.47:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.08.26-08.20.47:864][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.08.26-08.20.47:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.08.26-08.20.47:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.08.26-08.20.47:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.26-08.20.47:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.08.26-08.20.47:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.26-08.20.47:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.08.26-08.20.47:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.26-08.20.47:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.08.26-08.20.47:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.08.26-08.20.47:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.08.26-08.20.47:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.26-08.20.47:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.08.26-08.20.47:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.08.26-08.20.47:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.08.26-08.20.47:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.26-08.20.47:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.08.26-08.20.47:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.26-08.20.47:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.08.26-08.20.47:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.26-08.20.47:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.08.26-08.20.47:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.08.26-08.20.47:868][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.26-08.20.47:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.26-08.20.47:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.08.26-08.20.47:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:868][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.26-08.20.47:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.26-08.20.47:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.08.26-08.20.47:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.08.26-08.20.47:868][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.08.26-08.20.47:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.08.26-08.20.47:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.08.26-08.20.47:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:869][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.26-08.20.47:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.26-08.20.47:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.08.26-08.20.47:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.08.26-08.20.47:869][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.26-08.20.47:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.26-08.20.47:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.08.26-08.20.47:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.08.26-08.20.47:870][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.26-08.20.47:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.26-08.20.47:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.26-08.20.47:870][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.26-08.20.47:870][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.08.26-08.20.47:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.26-08.20.47:895][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.08.26-08.20.47:896][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.08.26-08.20.47:974][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.26-08.20.47:975][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.26-08.20.47:976][  0]LogSlate: Took 0.000771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.26-08.20.47:977][  0]LogSlate: Took 0.000066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.26-08.20.48:021][  0]LogRenderer: Reallocating scene render targets to support 1616x732 Format 10 NumSamples 1 (Frame:1).
+[2022.08.26-08.20.48:086][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.08.26-08.20.48:086][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.08.26-08.20.48:086][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.08.26-08.20.48:087][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.08.26-08.20.48:087][  0]LogLoad: (Engine Initialization) Total time: 6.65 seconds
+[2022.08.26-08.20.48:087][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.26-08.20.48:102][  0]AssetCheck: New page: 资产保存：Floor_400x400
+[2022.08.26-08.20.48:102][  0]LogContentValidation: Display: 正在验证StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.08.26-08.20.48:123][  0]LogAssetRegistry: Asset discovery search completed in 4.3854 seconds
+[2022.08.26-08.20.48:126][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.08.26-08.20.48:127][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.26-08.22.13:008][ 40]LogSlate: Window '源码管理登陆' being destroyed
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:103][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:104][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:104][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.18:104][552]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.22.31:738][552]LogSlate: Window '提交文件' being destroyed
+[2022.08.26-08.22.32:289][552]LogSourceControl: commit successful: [main bdb8519] a
+[2022.08.26-08.22.32:376][552]SourceControl: [main bdb8519] a
+[2022.08.26-08.22.32:376][552]SourceControl:  2 files changed, 6 insertions(+)
+[2022.08.26-08.22.32:376][552]SourceControl:  create mode 100644 MM_PetStop/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2022.08.26-08.22.32:376][552]SourceControl:  create mode 100644 MM_PetStop/MM_PetStop.uproject
+[2022.08.26-08.22.32:381][552]SourceControl: 已提交 [main bdb8519] a。
+[2022.08.26-08.35.54:249][343]LogHttp: Warning: 000001AFC03EE400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0D22424D-4130-9B2E-327D-86AB3A73C029%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=281f27d14da44aa16f82ca92de3f64ce%7C06cd1ddaf1884701a47b886f6c28c27b%7C7591308b-cbe5-4c25-bf2f-e2dcbfe5fd1e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: request failed, libcurl error: 0 (No error)
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1afea47beb0 [can pipeline])
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 1 (Re-using existing connection! (#0) with proxy 127.0.0.1)
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10001 (#0))
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 7 (Closing connection 0)
+[2022.08.26-08.35.54:672][343]LogHttp: Warning: 000001AFC03EE400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.26-08.35.54:681][344]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0D22424D-4130-9B2E-327D-86AB3A73C029%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=281f27d14da44aa16f82ca92de3f64ce%7C06cd1ddaf1884701a47b886f6c28c27b%7C7591308b-cbe5-4c25-bf2f-e2dcbfe5fd1e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.26-08.39.54:467][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:160][842]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'F:/2022年项目工程/MM_PetStop/MM_PetStop'
+[2022.08.26-08.39.58:249][842]EditorErrors: Warning: 没有要迁入的资产！
